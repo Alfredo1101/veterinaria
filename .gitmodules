@@ -1,0 +1,3 @@
+[submodule "veterinaria"]
+	path = veterinaria
+	url = https://github.com/Alfredo1101/veterinaria.git
